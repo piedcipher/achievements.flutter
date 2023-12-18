@@ -1,5 +1,7 @@
 # achievements.flutter
-some cool &amp; amazing things I've done with Flutter, documenting 'em here. inspired by [achievementsof.life](https://github.com/plxity/achievementsof.life) built by [Apoorv Taneja](https://github.com/plxity).
+some cool &amp; amazing things I've done with Flutter, documenting 'em here.
+
+inspired by [achievementsof.life](https://github.com/plxity/achievementsof.life) built by [Apoorv Taneja](https://github.com/plxity).
 
 ---
 
