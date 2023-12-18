@@ -21,7 +21,7 @@ I've randomly crafted some arts with some flutter magic & goodness. It ranges fr
 - [Batman](https://x.com/piedcipher/status/1705561123682930972?s=20)
 - [Red Batman](https://x.com/piedcipher/status/1718006086954066177?s=20)
 - [Jamal Kudu](https://x.com/piedcipher/status/1735222078100623424?s=20)
-- 
+
 ---
 
 ## Projects
