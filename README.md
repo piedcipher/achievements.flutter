@@ -1,10 +1,10 @@
 # achievements.flutter
-some cool &amp; amazing things I've done with Flutter
+some cool &amp; amazing things I've done with Flutter, documenting 'em here. inspired by [achievementsof.life](https://github.com/plxity/achievementsof.life) built by [Apoorv Taneja](https://github.com/plxity).
 
 ---
 
 ## Notable Commits
-very recently in 2023, Flutter Framework team at Google stared an initiative called [Flutter Framework Team: Notable Commits](https://github.com/flutter/flutter/issues/121415),
+very recently in 2023, Flutter Framework team at Google started an initiative called [Flutter Framework Team: Notable Commits](https://github.com/flutter/flutter/issues/121415),
 > which is a lightly curated list of the pull requests that have landed in ([flutter/flutter](https://github.com/flutter/flutter)) the previous week. The goal is to celebrate our progress and the developers who have contributed to that progress.
 
 [12](https://github.com/flutter/flutter/pulls?q=is%3Apr+author%3Apiedcipher+is%3Aclosed) of my pull-requests have been featured in notable commits.
