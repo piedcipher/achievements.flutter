@@ -35,3 +35,11 @@ list includes some of the unique & useful stuff.
   - got a little shoutout from [Tim Sneath](https://x.com/timsneath/status/1219880981605208064?s=20)!!
  
 ---
+
+## Beta Notable Commits Summary
+
+### [Flutter 3.18](https://twitter.com/FlutterDev/status/1740063496010691009?t=KdtTzRGAYUMJmnHHME2Iiw&s=19)
+
+[four](https://github.com/flutter/flutter/releases/tag/3.18.0-0.1.pre) of my commits have made it to the list!
+
+![1000037993](https://github.com/piedcipher/achievements.flutter/assets/13456345/2792fb56-508e-4c0e-8737-8f755c0ee49a)
