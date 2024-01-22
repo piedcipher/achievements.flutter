@@ -3,6 +3,13 @@ some cool &amp; amazing things I've done with Flutter, documenting 'em here.
 
 inspired by [achievementsof.life](https://github.com/plxity/achievementsof.life) built by [Apoorv Taneja](https://github.com/plxity).
 
+## Talks
+
+| Meet-up | Slides | Co-speaker
+| --- | --- | --- |
+| [Flutter Ahmedabad April 2019](https://meetu.ps/e/GBKBb/vTB8J/i) | [Functional Programming in Dart: A Practical Approach](https://speakerdeck.com/piedcipher/functional-programming-in-dart-a-practical-approach) | [Samvid Mistry](https://github.com/samvidmistry)
+| [Flutter Ahmedabad January 2024](https://meetu.ps/e/MPCT6/vTB8J/i) | [Getting Started with Contributing to Flutter SDK](https://speakerdeck.com/piedcipher/getting-started-with-contributing-to-flutter-sdk) | - |
+
 ---
 
 ## Notable Commits
