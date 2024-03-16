@@ -31,6 +31,8 @@ I've randomly crafted some arts with some flutter magic & goodness. It ranges fr
 - [Red Batman](https://x.com/piedcipher/status/1718006086954066177?s=20)
 - [Jamal Kudu](https://x.com/piedcipher/status/1735222078100623424?s=20)
 - [Le Monde Trend x Batman & Gotham](https://x.com/piedcipher/status/1765362713050362263?s=20)
+- [Honeycomb](https://x.com/piedcipher/status/1768208465070068189?t=24jlK5Xevf5Io7WPnhsDnw&s=09)
+- [Cake](https://x.com/piedcipher/status/1768637888198295805?t=b13y163B0DJFdfLxEirnPg&s=09)
 
 ---
 
