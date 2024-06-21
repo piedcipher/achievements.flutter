@@ -35,6 +35,14 @@ I've randomly crafted some arts with some flutter magic & goodness. It ranges fr
 - [Le Monde Trend x Batman & Gotham](https://x.com/piedcipher/status/1765362713050362263?s=20)
 - [Honeycomb](https://x.com/piedcipher/status/1768208465070068189?t=24jlK5Xevf5Io7WPnhsDnw&s=09)
 - [Cake](https://x.com/piedcipher/status/1768637888198295805?t=b13y163B0DJFdfLxEirnPg&s=09)
+- [Google Keep](https://x.com/piedcipher/status/1795355765450166379?s=19)
+- [Pixel Camera](https://x.com/piedcipher/status/1796124032716165274?s=19)
+- [Digiyatra](https://x.com/piedcipher/status/1796806467493695855?s=19)
+- [Rapido](https://x.com/piedcipher/status/1802606754175594982?s=19)
+- [Apple Notes](https://x.com/piedcipher/status/1802675010647343601?s=19)
+- [Notebook Nostalgia](https://x.com/piedcipher/status/1803526281142870424?s=19)
+- [Apple Reminders](https://x.com/piedcipher/status/1804054488300556331?s=19)
+- [VSCode](https://x.com/piedcipher/status/1804078163837997087?s=19)
 
 ---
 
