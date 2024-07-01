@@ -11,7 +11,7 @@ inspired by [achievementsof.life](https://github.com/plxity/achievementsof.life)
 | [Flutter Ahmedabad January 2024](https://meetu.ps/e/MPCT6/vTB8J/i) | [Getting Started with Contributing to Flutter SDK](https://speakerdeck.com/piedcipher/getting-started-with-contributing-to-flutter-sdk) | - |
 | [GDG Ahmedabad April 2024](https://gdg.community.dev/events/details/google-gdg-ahmedabad-presents-the-other-side-of-the-coin-learning-the-art-of-contributing-to-flutter-sdk/) | [the other side of the coin: learning the art of contributing to Flutter SDK](https://speakerdeck.com/piedcipher/the-other-side-of-the-coin-learning-the-art-of-contributing-to-flutter-sdk) | - |
 | [IWD 2024 by GDG Ahmedabad & WTM Ahmedabad](https://gdg.community.dev/events/details/google-gdg-ahmedabad-presents-iwd24-women-techmakers-ahmedabad-2024-celebration) | [Pragmatic Way to Design Poetic Slides 🌻](https://speakerdeck.com/piedcipher/pragmatic-way-to-design-poetic-slides) | - |
-| [Flutter Vadodara June 2024](https://www.meetup.com/fluttervadodara/events/301779083) | sky is certainly not the limit w/ Flutter SDK (Upcoming) | - |
+| [Flutter Vadodara June 2024](https://www.meetup.com/fluttervadodara/events/301779083) | [sky is certainly not the limit w/ Flutter SDK](https://speakerdeck.com/piedcipher/flutter-sdk) | - |
 
 ---
 
@@ -45,6 +45,7 @@ I've randomly crafted some arts with some flutter magic & goodness. It ranges fr
 - [Apple Reminders](https://x.com/piedcipher/status/1804054488300556331?s=19)
 - [VSCode](https://x.com/piedcipher/status/1804078163837997087?s=19)
 - [TVF](https://x.com/piedcipher/status/1805331173033525560?t=5RIkC6WUu5GCACJAJ1kf9w&s=19)
+- [Natraj Pencil](https://x.com/piedcipher/status/1806665889896394960?s=19)
 
 ---
 
