@@ -58,7 +58,7 @@ I've randomly crafted some arts with some flutter magic & goodness. It ranges fr
 - [Ubuntu](https://x.com/piedcipher/status/1822027607543836986?t=3qRv4lH7r3zxTzJQd2bc5A&s=19)
 - [Flutter](https://x.com/piedcipher/status/1822545055090982993?t=I8QeEgjSRakIm6gqEtSfsA&s=19)
 - [Kite](https://x.com/piedcipher/status/1822581659767636142?t=I-sOe7Tr-K3zrZhjU-6LKA&s=19)
-- [Marvel Jesua](https://x.com/piedcipher/status/1822603449277526107?t=JW6kzfat4UvtfRDKuX3ZQg&s=19)
+- [Marvel Jesus](https://x.com/piedcipher/status/1822603449277526107?t=JW6kzfat4UvtfRDKuX3ZQg&s=19)
 - [React](https://x.com/piedcipher/status/1822984333591826804?t=8P6fr6kG2i6LH1VJzZW71g&s=19)
 - [Olympics](https://x.com/piedcipher/status/1823015499975794908?t=fKtP8Q6dAzC6wO-gjLgoJw&s=19)
 
