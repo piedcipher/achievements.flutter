@@ -61,6 +61,13 @@ I've randomly crafted some arts with some flutter magic & goodness. It ranges fr
 - [Marvel Jesus](https://x.com/piedcipher/status/1822603449277526107?t=JW6kzfat4UvtfRDKuX3ZQg&s=19)
 - [React](https://x.com/piedcipher/status/1822984333591826804?t=8P6fr6kG2i6LH1VJzZW71g&s=19)
 - [Olympics](https://x.com/piedcipher/status/1823015499975794908?t=fKtP8Q6dAzC6wO-gjLgoJw&s=19)
+- [Calculator Logo](https://x.com/piedcipher/status/1824462555580153952)
+- [Fluttet Community Logo](https://x.com/piedcipher/status/1824499424309248388)
+- [GoHighLevel Logo](https://x.com/piedcipher/status/1824507551708549453)
+- [Twitter Logo](https://x.com/piedcipher/status/1824568094871917025)
+- [BLoC Loho](https://x.com/piedcipher/status/1824727261905387833)
+- [Flutter Flake Logo](https://x.com/piedcipher/status/1824866910661439917)
+- [SubStack Logo](https://x.com/piedcipher/status/1824931982532620479)
 
 ---
 
