@@ -12,6 +12,7 @@ inspired by [achievementsof.life](https://github.com/plxity/achievementsof.life)
 | [GDG Ahmedabad April 2024](https://gdg.community.dev/events/details/google-gdg-ahmedabad-presents-the-other-side-of-the-coin-learning-the-art-of-contributing-to-flutter-sdk/) | [the other side of the coin: learning the art of contributing to Flutter SDK](https://speakerdeck.com/piedcipher/the-other-side-of-the-coin-learning-the-art-of-contributing-to-flutter-sdk) | - |
 | [IWD 2024 by GDG Ahmedabad & WTM Ahmedabad](https://gdg.community.dev/events/details/google-gdg-ahmedabad-presents-iwd24-women-techmakers-ahmedabad-2024-celebration) | [Pragmatic Way to Design Poetic Slides 🌻](https://speakerdeck.com/piedcipher/pragmatic-way-to-design-poetic-slides) | - |
 | [Flutter Vadodara June 2024](https://www.meetup.com/fluttervadodara/events/301779083) | [sky is certainly not the limit w/ Flutter SDK](https://speakerdeck.com/piedcipher/flutter-sdk) | - |
+| [GDG Gandhinagar DevFest 2024](https://x.com/GDG_Gandhinagar/status/1847893512269815994) | [Key Insights from Contributing to Flutter SDK](https://speakerdeck.com/piedcipher/key-insights-from-contributing-to-flutter-sdk) | - |
 
 ---
 
