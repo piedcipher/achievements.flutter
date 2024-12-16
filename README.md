@@ -69,6 +69,7 @@ I've randomly crafted some arts with some flutter magic & goodness. It ranges fr
 - [BLoC's Logo](https://x.com/piedcipher/status/1824727261905387833)
 - [FlutterFlake's Logo](https://x.com/piedcipher/status/1824866910661439917)
 - [SubStack's Logo](https://x.com/piedcipher/status/1824931982532620479)
+- [Rainbow](https://x.com/piedcipher/status/1860955535673053580)
 
 ---
 
