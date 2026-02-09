@@ -72,6 +72,9 @@ I've randomly crafted some arts with some flutter magic & goodness. It ranges fr
 - [Rainbow](https://x.com/piedcipher/status/1860955535673053580)
 - [Gemini's Logo](https://x.com/piedcipher/status/2018698009110778188)
 - [Scapia's Logo](https://x.com/piedcipher/status/2019331701118497105)
+- [Ben 10 Omnitrix](https://x.com/piedcipher/status/2020184781015945549)
+- [Omnitrix Timeout](https://x.com/piedcipher/status/2020196379751247967)
+- [Slack Bot's Logo](https://x.com/piedcipher/status/2020889363995889771)
 
 ---
 
