@@ -75,6 +75,10 @@ I've randomly crafted some arts with some flutter magic & goodness. It ranges fr
 - [Ben 10 Omnitrix](https://x.com/piedcipher/status/2020184781015945549)
 - [Omnitrix Timeout](https://x.com/piedcipher/status/2020196379751247967)
 - [Slack Bot's Logo](https://x.com/piedcipher/status/2020889363995889771)
+- [Super Money's Logo](https://x.com/piedcipher/status/2043771503255400841)
+- [HDFC's Logo](https://x.com/piedcipher/status/2043947155979940144)
+- [Lemonade](https://x.com/piedcipher/status/2045440933844648260)
+- [Espresso](https://x.com/piedcipher/status/2045471626700128712)
 
 ---
 
