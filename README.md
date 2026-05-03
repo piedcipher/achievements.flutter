@@ -82,6 +82,9 @@ I've randomly crafted some arts with some flutter magic & goodness. It ranges fr
 - [Trees](https://x.com/piedcipher/status/2050556510103863730)
 - [Cookies Jar](https://x.com/piedcipher/status/2050603805134422430)
 - [Jio Hotstar's logo](https://x.com/piedcipher/status/2050928082077524273)
+- [Popsicle](https://x.com/piedcipher/status/1929077777912750459)
+- [Cheese](https://x.com/piedcipher/status/1929137777662210066)
+- [Watermelon](https://x.com/piedcipher/status/1929256505557021077)
 
 ---
 
