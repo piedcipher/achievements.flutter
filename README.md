@@ -85,6 +85,9 @@ I've randomly crafted some arts with some flutter magic & goodness. It ranges fr
 - [Popsicle](https://x.com/piedcipher/status/1929077777912750459)
 - [Cheese](https://x.com/piedcipher/status/1929137777662210066)
 - [Watermelon](https://x.com/piedcipher/status/1929256505557021077)
+- [New Year Toaster](https://x.com/piedcipher/status/1874407146382913553)
+- [Cat](https://x.com/piedcipher/status/1876196565960069585)
+- [Train](https://x.com/piedcipher/status/1876334454144397697)
 
 ---
 
