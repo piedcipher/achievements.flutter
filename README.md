@@ -89,6 +89,8 @@ I've randomly crafted some arts with some flutter magic & goodness. It ranges fr
 - [Cat](https://x.com/piedcipher/status/1876196565960069585)
 - [Train](https://x.com/piedcipher/status/1876334454144397697)
 - [Paytm Flights logo](https://x.com/piedcipher/status/2052360742918369791)
+- [Android Emulator's Logo](https://x.com/piedcipher/status/2055614129692631347)
+- [Android's logo](https://x.com/piedcipher/status/2055615160505843923)
 
 ---
 
